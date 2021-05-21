@@ -1,0 +1,2 @@
+# auto_examine_phone_number
+自动核对快件申报单电话区号是否正确
